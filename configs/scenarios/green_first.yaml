@@ -1,0 +1,13 @@
+name: green_first
+radius_m: 3200
+rings: 5
+spokes: 8
+density_factor: 0.95
+transit_investment: 0.65
+green_ratio: 0.3
+renewables_pct: 0.65
+walk_speed_mps: 1.4
+bike_speed_mps: 4.0
+population_target: 25000
+center_lat: 53.5461
+center_lon: -113.4938

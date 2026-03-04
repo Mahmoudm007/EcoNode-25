@@ -1,0 +1,13 @@
+name: baseline
+radius_m: 3200
+rings: 5
+spokes: 8
+density_factor: 1.0
+transit_investment: 0.6
+green_ratio: 0.22
+renewables_pct: 0.45
+walk_speed_mps: 1.4
+bike_speed_mps: 4.2
+population_target: 25000
+center_lat: 53.5461
+center_lon: -113.4938

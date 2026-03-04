@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "econode25-platform-v3"
+version = "0.1.0"
+description = "Procedural circular 15-minute city generator with dashboard, infographic, and web map assets."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "geopandas>=1.0",
+  "matplotlib>=3.8",
+  "networkx>=3.2",
+  "numpy>=1.26",
+  "pandas>=2.2",
+  "pillow>=10.0",
+  "plotly>=5.22",
+  "pyarrow>=15.0",
+  "pyproj>=3.6",
+  "PyYAML>=6.0",
+  "shapely>=2.0",
+  "streamlit>=1.41",
+  "svgwrite>=1.4",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.0",
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
