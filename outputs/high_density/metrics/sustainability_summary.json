@@ -1,0 +1,10 @@
+{
+  "scenario": "high_density",
+  "green_ratio": 0.4,
+  "transit_investment": 1.0,
+  "renewables_pct": 0.9,
+  "walk_coverage_score": 44.0,
+  "bike_coverage_score": 100.0,
+  "green_space_score": 100.0,
+  "energy_score": 90.0
+}

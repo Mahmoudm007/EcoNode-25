@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>EcoNode25 Report - green_first</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 2rem; color: #102a43; }
+    .grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; }
+    .card { border: 1px solid #d9e2ec; border-radius: 12px; padding: 1rem; background: #f7fbff; }
+    pre { white-space: pre-wrap; word-break: break-word; }
+  </style>
+</head>
+<body>
+  <h1>EcoNode25 Scenario Report</h1>
+  <p>Scenario: <strong>green_first</strong> | Seed: <strong>42</strong></p>
+  <div class="grid">
+    <div class="card"><h2>Accessibility</h2><pre>{
+  "scenario": "green_first",
+  "seed": 42,
+  "population_total": 25000,
+  "parcel_count": 40,
+  "walk_15min_parcel_share": 0.075,
+  "bike_15min_parcel_share": 0.975
+}</pre></div>
+    <div class="card"><h2>Sustainability</h2><pre>{
+  "scenario": "green_first",
+  "green_ratio": 0.3,
+  "transit_investment": 0.65,
+  "renewables_pct": 0.65,
+  "walk_coverage_score": 7.5,
+  "bike_coverage_score": 97.5,
+  "green_space_score": 100.0,
+  "energy_score": 65.0
+}</pre></div>
+    <div class="card"><h2>SDG Proxies</h2><pre>{
+  "sdg_3_health": 53.8,
+  "sdg_7_energy": 65.0,
+  "sdg_11_cities": 56.7,
+  "sdg_13_climate": 82.5
+}</pre></div>
+  </div>
+</body>
+</html>

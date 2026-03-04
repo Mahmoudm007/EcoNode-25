@@ -1,0 +1,242 @@
+[
+  {
+    "id": "facility_1_0",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        873.0690310378839,
+        283.67732435518695
+      ]
+    },
+    "properties": {
+      "facility_id": "facility_1_0",
+      "name": "Clinic 1-0",
+      "facility_type": "clinic",
+      "parcel_id": "parcel_1_0"
+    }
+  },
+  {
+    "id": "facility_1_2",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.0431916872382605e-13,
+        917.9991052886425
+      ]
+    },
+    "properties": {
+      "facility_id": "facility_1_2",
+      "name": "Park 1-2",
+      "facility_type": "park",
+      "parcel_id": "parcel_1_2"
+    }
+  },
+  {
+    "id": "facility_1_4",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -873.0690310378836,
+        283.6773243551872
+      ]
+    },
+    "properties": {
+      "facility_id": "facility_1_4",
+      "name": "Energy Plant 1-4",
+      "facility_type": "energy_plant",
+      "parcel_id": "parcel_1_4"
+    }
+  },
+  {
+    "id": "facility_1_6",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -539.5863357063488,
+        -742.6768769995075
+      ]
+    },
+    "properties": {
+      "facility_id": "facility_1_6",
+      "name": "Grocery 1-6",
+      "facility_type": "grocery",
+      "parcel_id": "parcel_1_6"
+    }
+  },
+  {
+    "id": "facility_1_8",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        539.5863357063488,
+        -742.6768769995076
+      ]
+    },
+    "properties": {
+      "facility_id": "facility_1_8",
+      "name": "School 1-8",
+      "facility_type": "school",
+      "parcel_id": "parcel_1_8"
+    }
+  },
+  {
+    "id": "facility_2_0",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1421.8552791188395,
+        461.9887853784476
+      ]
+    },
+    "properties": {
+      "facility_id": "facility_2_0",
+      "name": "School 2-0",
+      "facility_type": "school",
+      "parcel_id": "parcel_2_0"
+    }
+  },
+  {
+    "id": "facility_2_2",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        9.443630010788461e-14,
+        1495.0271143272166
+      ]
+    },
+    "properties": {
+      "facility_id": "facility_2_2",
+      "name": "Maas Hub 2-2",
+      "facility_type": "maas_hub",
+      "parcel_id": "parcel_2_2"
+    }
+  },
+  {
+    "id": "facility_2_4",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1421.855279118839,
+        461.9887853784476
+      ]
+    },
+    "properties": {
+      "facility_id": "facility_2_4",
+      "name": "Micromobility Hub 2-4",
+      "facility_type": "micromobility_hub",
+      "parcel_id": "parcel_2_4"
+    }
+  },
+  {
+    "id": "facility_2_6",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -878.7548895789113,
+        -1209.5023425420554
+      ]
+    },
+    "properties": {
+      "facility_id": "facility_2_6",
+      "name": "Clinic 2-6",
+      "facility_type": "clinic",
+      "parcel_id": "parcel_2_6"
+    }
+  },
+  {
+    "id": "facility_2_8",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        878.7548895789113,
+        -1209.502342542057
+      ]
+    },
+    "properties": {
+      "facility_id": "facility_2_8",
+      "name": "Park 2-8",
+      "facility_type": "park",
+      "parcel_id": "parcel_2_8"
+    }
+  },
+  {
+    "id": "facility_3_0",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1977.768621330716,
+        642.6159796617504
+      ]
+    },
+    "properties": {
+      "facility_id": "facility_3_0",
+      "name": "Park 3-0",
+      "facility_type": "park",
+      "parcel_id": "parcel_3_0"
+    }
+  },
+  {
+    "id": "facility_3_2",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.584396397158861e-13,
+        2079.5489936130452
+      ]
+    },
+    "properties": {
+      "facility_id": "facility_3_2",
+      "name": "Energy Plant 3-2",
+      "facility_type": "energy_plant",
+      "parcel_id": "parcel_3_2"
+    }
+  },
+  {
+    "id": "facility_3_4",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1977.7686213307159,
+        642.6159796617505
+      ]
+    },
+    "properties": {
+      "facility_id": "facility_3_4",
+      "name": "Grocery 3-4",
+      "facility_type": "grocery",
+      "parcel_id": "parcel_3_4"
+    }
+  },
+  {
+    "id": "facility_3_6",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1222.3282298654037,
+        -1682.3904764682732
+      ]
+    },
+    "properties": {
+      "facility_id": "facility_3_6",
+      "name": "School 3-6",
+      "facility_type": "school",
+      "parcel_id": "parcel_3_6"
+    }
+  },
+  {
+    "id": "facility_3_8",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1222.3282298654026,
+        -1682.3904764682738
+      ]
+    },
+    "properties": {
+      "facility_id": "facility_3_8",
+      "name": "Maas Hub 3-8",
+      "facility_type": "maas_hub",
+      "parcel_id": "parcel_3_8"
+    }
+  }
+]

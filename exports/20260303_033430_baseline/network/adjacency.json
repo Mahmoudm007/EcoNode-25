@@ -1,0 +1,1204 @@
+{
+  "center": [
+    {
+      "to": "n_1_0",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": false,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_1_1",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_1_2",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_1_3",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": false,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_1_4",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_1_5",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_1_6",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": false,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_1_7",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_1_0": [
+    {
+      "to": "center",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": false,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_2_0",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_1_1",
+      "length_m": 489.83,
+      "hierarchy": "ring_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_1_7",
+      "length_m": 489.83,
+      "hierarchy": "ring_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_2_0": [
+    {
+      "to": "n_1_0",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_3_0",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_2_1",
+      "length_m": 979.67,
+      "hierarchy": "ring_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_2_7",
+      "length_m": 979.67,
+      "hierarchy": "ring_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_3_0": [
+    {
+      "to": "n_2_0",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_4_0",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_3_1",
+      "length_m": 1469.5,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_3_7",
+      "length_m": 1469.5,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_4_0": [
+    {
+      "to": "n_3_0",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_5_0",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_4_1",
+      "length_m": 1959.34,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_4_7",
+      "length_m": 1959.34,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_5_0": [
+    {
+      "to": "n_4_0",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_5_1",
+      "length_m": 2449.17,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_5_7",
+      "length_m": 2449.17,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_1_1": [
+    {
+      "to": "center",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_2_1",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_1_0",
+      "length_m": 489.83,
+      "hierarchy": "ring_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_1_2",
+      "length_m": 489.83,
+      "hierarchy": "ring_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_2_1": [
+    {
+      "to": "n_1_1",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_3_1",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_2_0",
+      "length_m": 979.67,
+      "hierarchy": "ring_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_2_2",
+      "length_m": 979.67,
+      "hierarchy": "ring_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_3_1": [
+    {
+      "to": "n_2_1",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_4_1",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_3_0",
+      "length_m": 1469.5,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_3_2",
+      "length_m": 1469.5,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_4_1": [
+    {
+      "to": "n_3_1",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_5_1",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_4_0",
+      "length_m": 1959.34,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_4_2",
+      "length_m": 1959.34,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_5_1": [
+    {
+      "to": "n_4_1",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_5_0",
+      "length_m": 2449.17,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_5_2",
+      "length_m": 2449.17,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_1_2": [
+    {
+      "to": "center",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_2_2",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_1_1",
+      "length_m": 489.83,
+      "hierarchy": "ring_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_1_3",
+      "length_m": 489.83,
+      "hierarchy": "ring_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_2_2": [
+    {
+      "to": "n_1_2",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_3_2",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_2_1",
+      "length_m": 979.67,
+      "hierarchy": "ring_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_2_3",
+      "length_m": 979.67,
+      "hierarchy": "ring_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_3_2": [
+    {
+      "to": "n_2_2",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_4_2",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_3_1",
+      "length_m": 1469.5,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_3_3",
+      "length_m": 1469.5,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_4_2": [
+    {
+      "to": "n_3_2",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_5_2",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_4_1",
+      "length_m": 1959.34,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_4_3",
+      "length_m": 1959.34,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_5_2": [
+    {
+      "to": "n_4_2",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_5_1",
+      "length_m": 2449.17,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_5_3",
+      "length_m": 2449.17,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_1_3": [
+    {
+      "to": "center",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": false,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_2_3",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_1_2",
+      "length_m": 489.83,
+      "hierarchy": "ring_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_1_4",
+      "length_m": 489.83,
+      "hierarchy": "ring_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_2_3": [
+    {
+      "to": "n_1_3",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_3_3",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_2_2",
+      "length_m": 979.67,
+      "hierarchy": "ring_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_2_4",
+      "length_m": 979.67,
+      "hierarchy": "ring_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_3_3": [
+    {
+      "to": "n_2_3",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_4_3",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_3_2",
+      "length_m": 1469.5,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_3_4",
+      "length_m": 1469.5,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_4_3": [
+    {
+      "to": "n_3_3",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_5_3",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_4_2",
+      "length_m": 1959.34,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_4_4",
+      "length_m": 1959.34,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_5_3": [
+    {
+      "to": "n_4_3",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_5_2",
+      "length_m": 2449.17,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_5_4",
+      "length_m": 2449.17,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_1_4": [
+    {
+      "to": "center",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_2_4",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_1_3",
+      "length_m": 489.83,
+      "hierarchy": "ring_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_1_5",
+      "length_m": 489.83,
+      "hierarchy": "ring_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_2_4": [
+    {
+      "to": "n_1_4",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_3_4",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_2_3",
+      "length_m": 979.67,
+      "hierarchy": "ring_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_2_5",
+      "length_m": 979.67,
+      "hierarchy": "ring_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_3_4": [
+    {
+      "to": "n_2_4",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_4_4",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_3_3",
+      "length_m": 1469.5,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_3_5",
+      "length_m": 1469.5,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_4_4": [
+    {
+      "to": "n_3_4",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_5_4",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_4_3",
+      "length_m": 1959.34,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_4_5",
+      "length_m": 1959.34,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_5_4": [
+    {
+      "to": "n_4_4",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_5_3",
+      "length_m": 2449.17,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_5_5",
+      "length_m": 2449.17,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_1_5": [
+    {
+      "to": "center",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_2_5",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_1_4",
+      "length_m": 489.83,
+      "hierarchy": "ring_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_1_6",
+      "length_m": 489.83,
+      "hierarchy": "ring_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_2_5": [
+    {
+      "to": "n_1_5",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_3_5",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_2_4",
+      "length_m": 979.67,
+      "hierarchy": "ring_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_2_6",
+      "length_m": 979.67,
+      "hierarchy": "ring_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_3_5": [
+    {
+      "to": "n_2_5",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_4_5",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_3_4",
+      "length_m": 1469.5,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_3_6",
+      "length_m": 1469.5,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_4_5": [
+    {
+      "to": "n_3_5",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_5_5",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_4_4",
+      "length_m": 1959.34,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_4_6",
+      "length_m": 1959.34,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_5_5": [
+    {
+      "to": "n_4_5",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_5_4",
+      "length_m": 2449.17,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_5_6",
+      "length_m": 2449.17,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_1_6": [
+    {
+      "to": "center",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": false,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_2_6",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_1_5",
+      "length_m": 489.83,
+      "hierarchy": "ring_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_1_7",
+      "length_m": 489.83,
+      "hierarchy": "ring_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_2_6": [
+    {
+      "to": "n_1_6",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_3_6",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_2_5",
+      "length_m": 979.67,
+      "hierarchy": "ring_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_2_7",
+      "length_m": 979.67,
+      "hierarchy": "ring_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_3_6": [
+    {
+      "to": "n_2_6",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_4_6",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_3_5",
+      "length_m": 1469.5,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_3_7",
+      "length_m": 1469.5,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_4_6": [
+    {
+      "to": "n_3_6",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_5_6",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_4_5",
+      "length_m": 1959.34,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_4_7",
+      "length_m": 1959.34,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_5_6": [
+    {
+      "to": "n_4_6",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_5_5",
+      "length_m": 2449.17,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_5_7",
+      "length_m": 2449.17,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_1_7": [
+    {
+      "to": "center",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_2_7",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_1_6",
+      "length_m": 489.83,
+      "hierarchy": "ring_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_1_0",
+      "length_m": 489.83,
+      "hierarchy": "ring_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_2_7": [
+    {
+      "to": "n_1_7",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_3_7",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_2_6",
+      "length_m": 979.67,
+      "hierarchy": "ring_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_2_0",
+      "length_m": 979.67,
+      "hierarchy": "ring_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_3_7": [
+    {
+      "to": "n_2_7",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_4_7",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_3_6",
+      "length_m": 1469.5,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_3_0",
+      "length_m": 1469.5,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_4_7": [
+    {
+      "to": "n_3_7",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_5_7",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_4_6",
+      "length_m": 1959.34,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_4_0",
+      "length_m": 1959.34,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ],
+  "n_5_7": [
+    {
+      "to": "n_4_7",
+      "length_m": 640.0,
+      "hierarchy": "radial_arterial",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_5_6",
+      "length_m": 2449.17,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    },
+    {
+      "to": "n_5_0",
+      "length_m": 2449.17,
+      "hierarchy": "local_connector",
+      "bike_allowed": true,
+      "walk_allowed": true
+    }
+  ]
+}

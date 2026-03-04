@@ -1,0 +1,8 @@
+{
+  "scenario": "high_density",
+  "seed": 42,
+  "population_total": 25000,
+  "parcel_count": 50,
+  "walk_15min_parcel_share": 0.44,
+  "bike_15min_parcel_share": 1.0
+}

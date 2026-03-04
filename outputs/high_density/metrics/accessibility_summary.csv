@@ -1,0 +1,2 @@
+scenario,seed,population_total,parcel_count,walk_15min_parcel_share,bike_15min_parcel_share
+high_density,42,25000,50,0.44,1.0

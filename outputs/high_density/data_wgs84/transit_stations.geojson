@@ -1,0 +1,693 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "station_central",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4938,
+          53.5461
+        ]
+      },
+      "properties": {
+        "station_id": "station_central",
+        "name": "Central Station",
+        "station_type": "central_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "station_ring_0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.47565766930853,
+          53.5461
+        ]
+      },
+      "properties": {
+        "station_id": "station_ring_0",
+        "name": "Ring Station 1",
+        "station_type": "ring_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "station_ring_1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.47808828073734,
+          53.551527899402934
+        ]
+      },
+      "properties": {
+        "station_id": "station_ring_1",
+        "name": "Ring Station 2",
+        "station_type": "ring_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "station_ring_2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.48472883465426,
+          53.555501397544255
+        ]
+      },
+      "properties": {
+        "station_id": "station_ring_2",
+        "name": "Ring Station 3",
+        "station_type": "ring_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "station_ring_3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4938,
+          53.556955798805866
+        ]
+      },
+      "properties": {
+        "station_id": "station_ring_3",
+        "name": "Ring Station 4",
+        "station_type": "ring_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "station_ring_4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.50287116534572,
+          53.555501397544255
+        ]
+      },
+      "properties": {
+        "station_id": "station_ring_4",
+        "name": "Ring Station 5",
+        "station_type": "ring_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "station_ring_5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.50951171926265,
+          53.551527899402934
+        ]
+      },
+      "properties": {
+        "station_id": "station_ring_5",
+        "name": "Ring Station 6",
+        "station_type": "ring_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "station_ring_6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.51194233069145,
+          53.5461
+        ]
+      },
+      "properties": {
+        "station_id": "station_ring_6",
+        "name": "Ring Station 7",
+        "station_type": "ring_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "station_ring_7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.50951171926265,
+          53.54067210059707
+        ]
+      },
+      "properties": {
+        "station_id": "station_ring_7",
+        "name": "Ring Station 8",
+        "station_type": "ring_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "station_ring_8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.50287116534572,
+          53.53669860245575
+        ]
+      },
+      "properties": {
+        "station_id": "station_ring_8",
+        "name": "Ring Station 9",
+        "station_type": "ring_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "station_ring_9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4938,
+          53.53524420119414
+        ]
+      },
+      "properties": {
+        "station_id": "station_ring_9",
+        "name": "Ring Station 10",
+        "station_type": "ring_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "station_ring_10",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.48472883465426,
+          53.53669860245575
+        ]
+      },
+      "properties": {
+        "station_id": "station_ring_10",
+        "name": "Ring Station 11",
+        "station_type": "ring_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "station_ring_11",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.47808828073734,
+          53.54067210059707
+        ]
+      },
+      "properties": {
+        "station_id": "station_ring_11",
+        "name": "Ring Station 12",
+        "station_type": "ring_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stop_0_0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.47792546064497,
+          53.5461
+        ]
+      },
+      "properties": {
+        "station_id": "stop_0_0",
+        "name": "Spoke 1 Stop 1",
+        "station_type": "spoke_stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stop_0_1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4665865039628,
+          53.5461
+        ]
+      },
+      "properties": {
+        "station_id": "stop_0_1",
+        "name": "Spoke 1 Stop 2",
+        "station_type": "spoke_stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stop_0_2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.45524754728065,
+          53.5461
+        ]
+      },
+      "properties": {
+        "station_id": "stop_0_2",
+        "name": "Spoke 1 Stop 3",
+        "station_type": "spoke_stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stop_1_0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4809572278839,
+          53.55168326863495
+        ]
+      },
+      "properties": {
+        "station_id": "stop_1_0",
+        "name": "Spoke 2 Stop 1",
+        "station_type": "spoke_stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stop_1_1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.47178381922956,
+          53.555671317659915
+        ]
+      },
+      "properties": {
+        "station_id": "stop_1_1",
+        "name": "Spoke 2 Stop 2",
+        "station_type": "spoke_stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stop_1_2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.46261041057521,
+          53.559659366684876
+        ]
+      },
+      "properties": {
+        "station_id": "stop_1_2",
+        "name": "Spoke 2 Stop 3",
+        "station_type": "spoke_stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stop_2_0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.48889449756142,
+          53.55513391841967
+        ]
+      },
+      "properties": {
+        "station_id": "stop_2_0",
+        "name": "Spoke 3 Stop 1",
+        "station_type": "spoke_stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stop_2_1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.48539056724815,
+          53.56158671729086
+        ]
+      },
+      "properties": {
+        "station_id": "stop_2_1",
+        "name": "Spoke 3 Stop 2",
+        "station_type": "spoke_stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stop_2_2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.48188663693487,
+          53.56803951616205
+        ]
+      },
+      "properties": {
+        "station_id": "stop_2_2",
+        "name": "Spoke 3 Stop 3",
+        "station_type": "spoke_stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stop_3_0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.49870550243857,
+          53.55513391841967
+        ]
+      },
+      "properties": {
+        "station_id": "stop_3_0",
+        "name": "Spoke 4 Stop 1",
+        "station_type": "spoke_stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stop_3_1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.50220943275184,
+          53.56158671729086
+        ]
+      },
+      "properties": {
+        "station_id": "stop_3_1",
+        "name": "Spoke 4 Stop 2",
+        "station_type": "spoke_stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stop_3_2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.50571336306511,
+          53.56803951616205
+        ]
+      },
+      "properties": {
+        "station_id": "stop_3_2",
+        "name": "Spoke 4 Stop 3",
+        "station_type": "spoke_stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stop_4_0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.50664277211608,
+          53.55168326863495
+        ]
+      },
+      "properties": {
+        "station_id": "stop_4_0",
+        "name": "Spoke 5 Stop 1",
+        "station_type": "spoke_stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stop_4_1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.51581618077043,
+          53.555671317659915
+        ]
+      },
+      "properties": {
+        "station_id": "stop_4_1",
+        "name": "Spoke 5 Stop 2",
+        "station_type": "spoke_stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stop_4_2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.52498958942478,
+          53.559659366684876
+        ]
+      },
+      "properties": {
+        "station_id": "stop_4_2",
+        "name": "Spoke 5 Stop 3",
+        "station_type": "spoke_stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stop_5_0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.50967453935502,
+          53.5461
+        ]
+      },
+      "properties": {
+        "station_id": "stop_5_0",
+        "name": "Spoke 6 Stop 1",
+        "station_type": "spoke_stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stop_5_1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.52101349603718,
+          53.5461
+        ]
+      },
+      "properties": {
+        "station_id": "stop_5_1",
+        "name": "Spoke 6 Stop 2",
+        "station_type": "spoke_stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stop_5_2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.53235245271934,
+          53.5461
+        ]
+      },
+      "properties": {
+        "station_id": "stop_5_2",
+        "name": "Spoke 6 Stop 3",
+        "station_type": "spoke_stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stop_6_0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.50664277211608,
+          53.54051673136505
+        ]
+      },
+      "properties": {
+        "station_id": "stop_6_0",
+        "name": "Spoke 7 Stop 1",
+        "station_type": "spoke_stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stop_6_1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.51581618077043,
+          53.53652868234009
+        ]
+      },
+      "properties": {
+        "station_id": "stop_6_1",
+        "name": "Spoke 7 Stop 2",
+        "station_type": "spoke_stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stop_6_2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.52498958942478,
+          53.53254063331513
+        ]
+      },
+      "properties": {
+        "station_id": "stop_6_2",
+        "name": "Spoke 7 Stop 3",
+        "station_type": "spoke_stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stop_7_0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.49870550243857,
+          53.537066081580335
+        ]
+      },
+      "properties": {
+        "station_id": "stop_7_0",
+        "name": "Spoke 8 Stop 1",
+        "station_type": "spoke_stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stop_7_1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.50220943275184,
+          53.53061328270915
+        ]
+      },
+      "properties": {
+        "station_id": "stop_7_1",
+        "name": "Spoke 8 Stop 2",
+        "station_type": "spoke_stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stop_7_2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.50571336306511,
+          53.52416048383795
+        ]
+      },
+      "properties": {
+        "station_id": "stop_7_2",
+        "name": "Spoke 8 Stop 3",
+        "station_type": "spoke_stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stop_8_0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.48889449756142,
+          53.537066081580335
+        ]
+      },
+      "properties": {
+        "station_id": "stop_8_0",
+        "name": "Spoke 9 Stop 1",
+        "station_type": "spoke_stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stop_8_1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.48539056724815,
+          53.53061328270915
+        ]
+      },
+      "properties": {
+        "station_id": "stop_8_1",
+        "name": "Spoke 9 Stop 2",
+        "station_type": "spoke_stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stop_8_2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.48188663693487,
+          53.52416048383795
+        ]
+      },
+      "properties": {
+        "station_id": "stop_8_2",
+        "name": "Spoke 9 Stop 3",
+        "station_type": "spoke_stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stop_9_0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4809572278839,
+          53.54051673136505
+        ]
+      },
+      "properties": {
+        "station_id": "stop_9_0",
+        "name": "Spoke 10 Stop 1",
+        "station_type": "spoke_stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stop_9_1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.47178381922956,
+          53.53652868234009
+        ]
+      },
+      "properties": {
+        "station_id": "stop_9_1",
+        "name": "Spoke 10 Stop 2",
+        "station_type": "spoke_stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stop_9_2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.46261041057521,
+          53.53254063331513
+        ]
+      },
+      "properties": {
+        "station_id": "stop_9_2",
+        "name": "Spoke 10 Stop 3",
+        "station_type": "spoke_stop"
+      }
+    }
+  ]
+}

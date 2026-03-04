@@ -1,0 +1,19 @@
+{
+  "scenario": "transit_first",
+  "seed": 42,
+  "spec": {
+    "name": "transit_first",
+    "radius_m": 3200,
+    "rings": 5,
+    "spokes": 8,
+    "density_factor": 1.05,
+    "transit_investment": 1.0,
+    "green_ratio": 0.18,
+    "renewables_pct": 0.9,
+    "walk_speed_mps": 1.4,
+    "bike_speed_mps": 4.4,
+    "population_target": 25000,
+    "center_lat": 53.5461,
+    "center_lon": -113.4938
+  }
+}

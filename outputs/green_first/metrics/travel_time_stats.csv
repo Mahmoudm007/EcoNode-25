@@ -1,0 +1,48 @@
+destination_id,name,destination_type,walk_time_min,bike_time_min
+facility_1_0,Clinic 1-0,clinic,7.62,4.71
+facility_1_2,Park 1-2,park,7.62,4.71
+facility_1_4,Energy Plant 1-4,energy_plant,7.62,2.67
+facility_1_6,Grocery 1-6,grocery,7.62,2.67
+facility_2_0,School 2-0,school,15.24,5.33
+facility_2_2,Maas Hub 2-2,maas_hub,15.24,7.37
+facility_2_4,Micromobility Hub 2-4,micromobility_hub,15.24,5.33
+facility_2_6,Clinic 2-6,clinic,15.24,5.33
+facility_3_0,Park 3-0,park,22.86,8.0
+facility_3_2,Energy Plant 3-2,energy_plant,22.86,8.0
+facility_3_4,Grocery 3-4,grocery,22.86,8.0
+facility_3_6,School 3-6,school,22.86,10.04
+station_central,Central Station,central_station,0.0,0.0
+station_ring_0,Ring Station 1,ring_station,15.24,7.37
+station_ring_1,Ring Station 2,ring_station,15.24,5.33
+station_ring_2,Ring Station 3,ring_station,15.24,5.33
+station_ring_3,Ring Station 4,ring_station,15.24,5.33
+station_ring_4,Ring Station 5,ring_station,15.24,7.37
+station_ring_5,Ring Station 6,ring_station,15.24,5.33
+station_ring_6,Ring Station 7,ring_station,15.24,5.33
+station_ring_7,Ring Station 8,ring_station,15.24,7.37
+station_ring_8,Ring Station 9,ring_station,15.24,7.37
+station_ring_9,Ring Station 10,ring_station,15.24,5.33
+stop_0_0,Spoke 1 Stop 1,spoke_stop,15.24,7.37
+stop_0_1,Spoke 1 Stop 2,spoke_stop,22.86,10.04
+stop_0_2,Spoke 1 Stop 3,spoke_stop,30.48,12.71
+stop_1_0,Spoke 2 Stop 1,spoke_stop,15.24,5.33
+stop_1_1,Spoke 2 Stop 2,spoke_stop,22.86,8.0
+stop_1_2,Spoke 2 Stop 3,spoke_stop,30.48,10.67
+stop_2_0,Spoke 3 Stop 1,spoke_stop,15.24,5.33
+stop_2_1,Spoke 3 Stop 2,spoke_stop,22.86,8.0
+stop_2_2,Spoke 3 Stop 3,spoke_stop,30.48,10.67
+stop_3_0,Spoke 4 Stop 1,spoke_stop,15.24,7.37
+stop_3_1,Spoke 4 Stop 2,spoke_stop,22.86,10.04
+stop_3_2,Spoke 4 Stop 3,spoke_stop,30.48,12.71
+stop_4_0,Spoke 5 Stop 1,spoke_stop,15.24,5.33
+stop_4_1,Spoke 5 Stop 2,spoke_stop,22.86,8.0
+stop_4_2,Spoke 5 Stop 3,spoke_stop,30.48,10.67
+stop_5_0,Spoke 6 Stop 1,spoke_stop,15.24,5.33
+stop_5_1,Spoke 6 Stop 2,spoke_stop,22.86,8.0
+stop_5_2,Spoke 6 Stop 3,spoke_stop,30.48,10.67
+stop_6_0,Spoke 7 Stop 1,spoke_stop,15.24,7.37
+stop_6_1,Spoke 7 Stop 2,spoke_stop,22.86,10.04
+stop_6_2,Spoke 7 Stop 3,spoke_stop,30.48,12.71
+stop_7_0,Spoke 8 Stop 1,spoke_stop,15.24,5.33
+stop_7_1,Spoke 8 Stop 2,spoke_stop,22.86,8.0
+stop_7_2,Spoke 8 Stop 3,spoke_stop,30.48,10.67

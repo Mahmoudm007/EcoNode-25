@@ -1,0 +1,6 @@
+{
+  "node_count": 41,
+  "edge_count": 80,
+  "walk_speed_mps": 1.4,
+  "bike_speed_mps": 4.0
+}

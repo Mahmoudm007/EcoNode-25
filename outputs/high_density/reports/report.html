@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>EcoNode25 Report - high_density</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 2rem; color: #102a43; }
+    .grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; }
+    .card { border: 1px solid #d9e2ec; border-radius: 12px; padding: 1rem; background: #f7fbff; }
+    pre { white-space: pre-wrap; word-break: break-word; }
+  </style>
+</head>
+<body>
+  <h1>EcoNode25 Scenario Report</h1>
+  <p>Scenario: <strong>high_density</strong> | Seed: <strong>42</strong></p>
+  <div class="grid">
+    <div class="card"><h2>Accessibility</h2><pre>{
+  "scenario": "high_density",
+  "seed": 42,
+  "population_total": 25000,
+  "parcel_count": 50,
+  "walk_15min_parcel_share": 0.44,
+  "bike_15min_parcel_share": 1.0
+}</pre></div>
+    <div class="card"><h2>Sustainability</h2><pre>{
+  "scenario": "high_density",
+  "green_ratio": 0.4,
+  "transit_investment": 1.0,
+  "renewables_pct": 0.9,
+  "walk_coverage_score": 44.0,
+  "bike_coverage_score": 100.0,
+  "green_space_score": 100.0,
+  "energy_score": 90.0
+}</pre></div>
+    <div class="card"><h2>SDG Proxies</h2><pre>{
+  "sdg_3_health": 72.0,
+  "sdg_7_energy": 90.0,
+  "sdg_11_cities": 81.3,
+  "sdg_13_climate": 95.0
+}</pre></div>
+  </div>
+</body>
+</html>

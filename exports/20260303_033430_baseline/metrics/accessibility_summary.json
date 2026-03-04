@@ -1,0 +1,8 @@
+{
+  "scenario": "baseline",
+  "seed": 42,
+  "population_total": 25000,
+  "parcel_count": 40,
+  "walk_15min_parcel_share": 0.075,
+  "bike_15min_parcel_share": 1.0
+}

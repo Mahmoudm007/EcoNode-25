@@ -1,0 +1,1543 @@
+[
+  {
+    "id": "road_local_0_0",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          384.0976335260392,
+          159.09844908189623
+        ],
+        [
+          591.2829008072235,
+          244.91739671365747
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_0_0",
+      "hierarchy": "local_connector",
+      "ring_index": 0
+    }
+  },
+  {
+    "id": "road_local_0_1",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          159.09844908189623,
+          384.09763352603915
+        ],
+        [
+          244.9173967136575,
+          591.2829008072235
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_0_1",
+      "hierarchy": "local_connector",
+      "ring_index": 0
+    }
+  },
+  {
+    "id": "road_local_0_2",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -0.0,
+          0.0
+        ],
+        [
+          -159.0984490818962,
+          384.0976335260392
+        ],
+        [
+          -244.9173967136574,
+          591.2829008072235
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_0_2",
+      "hierarchy": "local_connector",
+      "ring_index": 0
+    }
+  },
+  {
+    "id": "road_local_0_3",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -0.0,
+          0.0
+        ],
+        [
+          -384.0976335260392,
+          159.0984490818963
+        ],
+        [
+          -591.2829008072235,
+          244.91739671365752
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_0_3",
+      "hierarchy": "local_connector",
+      "ring_index": 0
+    }
+  },
+  {
+    "id": "road_local_0_4",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -0.0,
+          -0.0
+        ],
+        [
+          -384.09763352603915,
+          -159.09844908189618
+        ],
+        [
+          -591.2829008072235,
+          -244.91739671365738
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_0_4",
+      "hierarchy": "local_connector",
+      "ring_index": 0
+    }
+  },
+  {
+    "id": "road_local_0_5",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -0.0,
+          -0.0
+        ],
+        [
+          -159.0984490818963,
+          -384.09763352603915
+        ],
+        [
+          -244.9173967136578,
+          -591.2829008072233
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_0_5",
+      "hierarchy": "local_connector",
+      "ring_index": 0
+    }
+  },
+  {
+    "id": "road_local_0_6",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          0.0,
+          -0.0
+        ],
+        [
+          159.09844908189615,
+          -384.09763352603915
+        ],
+        [
+          244.9173967136576,
+          -591.2829008072234
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_0_6",
+      "hierarchy": "local_connector",
+      "ring_index": 0
+    }
+  },
+  {
+    "id": "road_local_0_7",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          0.0,
+          -0.0
+        ],
+        [
+          384.0976335260392,
+          -159.09844908189635
+        ],
+        [
+          591.2829008072233,
+          -244.91739671365787
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_0_7",
+      "hierarchy": "local_connector",
+      "ring_index": 0
+    }
+  },
+  {
+    "id": "road_local_1_0",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          591.2829008072235,
+          244.91739671365747
+        ],
+        [
+          896.2278115607585,
+          371.2297145244246
+        ],
+        [
+          1182.565801614447,
+          489.83479342731493
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_1_0",
+      "hierarchy": "local_connector",
+      "ring_index": 1
+    }
+  },
+  {
+    "id": "road_local_1_1",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          244.9173967136575,
+          591.2829008072235
+        ],
+        [
+          371.2297145244247,
+          896.2278115607583
+        ],
+        [
+          489.834793427315,
+          1182.565801614447
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_1_1",
+      "hierarchy": "local_connector",
+      "ring_index": 1
+    }
+  },
+  {
+    "id": "road_local_1_2",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -244.9173967136574,
+          591.2829008072235
+        ],
+        [
+          -371.2297145244245,
+          896.227811560758
+        ],
+        [
+          -489.8347934273148,
+          1182.565801614447
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_1_2",
+      "hierarchy": "local_connector",
+      "ring_index": 1
+    }
+  },
+  {
+    "id": "road_local_1_3",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -591.2829008072235,
+          244.91739671365752
+        ],
+        [
+          -896.227811560758,
+          371.22971452442465
+        ],
+        [
+          -1182.565801614447,
+          489.83479342731505
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_1_3",
+      "hierarchy": "local_connector",
+      "ring_index": 1
+    }
+  },
+  {
+    "id": "road_local_1_4",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -591.2829008072235,
+          -244.91739671365738
+        ],
+        [
+          -896.2278115607583,
+          -371.22971452442454
+        ],
+        [
+          -1182.565801614447,
+          -489.83479342731476
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_1_4",
+      "hierarchy": "local_connector",
+      "ring_index": 1
+    }
+  },
+  {
+    "id": "road_local_1_5",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -244.9173967136578,
+          -591.2829008072233
+        ],
+        [
+          -371.22971452442476,
+          -896.2278115607581
+        ],
+        [
+          -489.8347934273156,
+          -1182.5658016144466
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_1_5",
+      "hierarchy": "local_connector",
+      "ring_index": 1
+    }
+  },
+  {
+    "id": "road_local_1_6",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          244.9173967136576,
+          -591.2829008072234
+        ],
+        [
+          371.2297145244244,
+          -896.2278115607581
+        ],
+        [
+          489.8347934273152,
+          -1182.5658016144469
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_1_6",
+      "hierarchy": "local_connector",
+      "ring_index": 1
+    }
+  },
+  {
+    "id": "road_local_1_7",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          591.2829008072233,
+          -244.91739671365787
+        ],
+        [
+          896.2278115607578,
+          -371.2297145244249
+        ],
+        [
+          1182.5658016144466,
+          -489.83479342731573
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_1_7",
+      "hierarchy": "local_connector",
+      "ring_index": 1
+    }
+  },
+  {
+    "id": "road_local_2_0",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          1182.565801614447,
+          489.83479342731493
+        ],
+        [
+          1459.5710073989483,
+          604.5741065112055
+        ],
+        [
+          1773.8487024216706,
+          734.7521901409724
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_2_0",
+      "hierarchy": "local_connector",
+      "ring_index": 2
+    }
+  },
+  {
+    "id": "road_local_2_1",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          489.834793427315,
+          1182.565801614447
+        ],
+        [
+          604.5741065112061,
+          1459.5710073989494
+        ],
+        [
+          734.7521901409725,
+          1773.8487024216706
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_2_1",
+      "hierarchy": "local_connector",
+      "ring_index": 2
+    }
+  },
+  {
+    "id": "road_local_2_2",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -489.8347934273148,
+          1182.565801614447
+        ],
+        [
+          -604.5741065112053,
+          1459.5710073989478
+        ],
+        [
+          -734.7521901409723,
+          1773.8487024216706
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_2_2",
+      "hierarchy": "local_connector",
+      "ring_index": 2
+    }
+  },
+  {
+    "id": "road_local_2_3",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -1182.565801614447,
+          489.83479342731505
+        ],
+        [
+          -1459.5710073989487,
+          604.574106511206
+        ],
+        [
+          -1773.8487024216706,
+          734.7521901409726
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_2_3",
+      "hierarchy": "local_connector",
+      "ring_index": 2
+    }
+  },
+  {
+    "id": "road_local_2_4",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -1182.565801614447,
+          -489.83479342731476
+        ],
+        [
+          -1459.5710073989492,
+          -604.5741065112054
+        ],
+        [
+          -1773.8487024216709,
+          -734.7521901409722
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_2_4",
+      "hierarchy": "local_connector",
+      "ring_index": 2
+    }
+  },
+  {
+    "id": "road_local_2_5",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -489.8347934273156,
+          -1182.5658016144466
+        ],
+        [
+          -604.5741065112063,
+          -1459.571007398949
+        ],
+        [
+          -734.7521901409734,
+          -1773.8487024216702
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_2_5",
+      "hierarchy": "local_connector",
+      "ring_index": 2
+    }
+  },
+  {
+    "id": "road_local_2_6",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          489.8347934273152,
+          -1182.5658016144469
+        ],
+        [
+          604.5741065112055,
+          -1459.571007398949
+        ],
+        [
+          734.7521901409729,
+          -1773.8487024216704
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_2_6",
+      "hierarchy": "local_connector",
+      "ring_index": 2
+    }
+  },
+  {
+    "id": "road_local_2_7",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          1182.5658016144466,
+          -489.83479342731573
+        ],
+        [
+          1459.571007398949,
+          -604.5741065112062
+        ],
+        [
+          1773.8487024216702,
+          -734.7521901409735
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_2_7",
+      "hierarchy": "local_connector",
+      "ring_index": 2
+    }
+  },
+  {
+    "id": "road_local_3_0",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          1773.8487024216706,
+          734.7521901409724
+        ],
+        [
+          2030.2303486376352,
+          840.9489451471658
+        ],
+        [
+          2365.131603228894,
+          979.6695868546299
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_3_0",
+      "hierarchy": "local_connector",
+      "ring_index": 3
+    }
+  },
+  {
+    "id": "road_local_3_1",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          734.7521901409725,
+          1773.8487024216706
+        ],
+        [
+          840.948945147166,
+          2030.230348637636
+        ],
+        [
+          979.66958685463,
+          2365.131603228894
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_3_1",
+      "hierarchy": "local_connector",
+      "ring_index": 3
+    }
+  },
+  {
+    "id": "road_local_3_2",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -734.7521901409723,
+          1773.8487024216706
+        ],
+        [
+          -840.9489451471654,
+          2030.2303486376356
+        ],
+        [
+          -979.6695868546296,
+          2365.131603228894
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_3_2",
+      "hierarchy": "local_connector",
+      "ring_index": 3
+    }
+  },
+  {
+    "id": "road_local_3_3",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -1773.8487024216706,
+          734.7521901409726
+        ],
+        [
+          -2030.2303486376363,
+          840.9489451471661
+        ],
+        [
+          -2365.131603228894,
+          979.6695868546301
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_3_3",
+      "hierarchy": "local_connector",
+      "ring_index": 3
+    }
+  },
+  {
+    "id": "road_local_3_4",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -1773.8487024216709,
+          -734.7521901409722
+        ],
+        [
+          -2030.2303486376363,
+          -840.9489451471659
+        ],
+        [
+          -2365.131603228894,
+          -979.6695868546295
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_3_4",
+      "hierarchy": "local_connector",
+      "ring_index": 3
+    }
+  },
+  {
+    "id": "road_local_3_5",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -734.7521901409734,
+          -1773.8487024216702
+        ],
+        [
+          -840.9489451471661,
+          -2030.2303486376352
+        ],
+        [
+          -979.6695868546312,
+          -2365.1316032288933
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_3_5",
+      "hierarchy": "local_connector",
+      "ring_index": 3
+    }
+  },
+  {
+    "id": "road_local_3_6",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          734.7521901409729,
+          -1773.8487024216704
+        ],
+        [
+          840.9489451471652,
+          -2030.230348637636
+        ],
+        [
+          979.6695868546304,
+          -2365.1316032288937
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_3_6",
+      "hierarchy": "local_connector",
+      "ring_index": 3
+    }
+  },
+  {
+    "id": "road_local_3_7",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          1773.8487024216702,
+          -734.7521901409735
+        ],
+        [
+          2030.230348637636,
+          -840.9489451471663
+        ],
+        [
+          2365.1316032288933,
+          -979.6695868546315
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_3_7",
+      "hierarchy": "local_connector",
+      "ring_index": 3
+    }
+  },
+  {
+    "id": "road_local_4_0",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          2365.131603228894,
+          979.6695868546299
+        ],
+        [
+          2603.3284050098214,
+          1078.333932666186
+        ],
+        [
+          2956.4145040361177,
+          1224.5869835682872
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_4_0",
+      "hierarchy": "local_connector",
+      "ring_index": 4
+    }
+  },
+  {
+    "id": "road_local_4_1",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          979.66958685463,
+          2365.131603228894
+        ],
+        [
+          1078.3339326661855,
+          2603.3284050098214
+        ],
+        [
+          1224.5869835682875,
+          2956.4145040361177
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_4_1",
+      "hierarchy": "local_connector",
+      "ring_index": 4
+    }
+  },
+  {
+    "id": "road_local_4_2",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -979.6695868546296,
+          2365.131603228894
+        ],
+        [
+          -1078.3339326661853,
+          2603.32840500982
+        ],
+        [
+          -1224.5869835682872,
+          2956.4145040361177
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_4_2",
+      "hierarchy": "local_connector",
+      "ring_index": 4
+    }
+  },
+  {
+    "id": "road_local_4_3",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -2365.131603228894,
+          979.6695868546301
+        ],
+        [
+          -2603.3284050098214,
+          1078.3339326661855
+        ],
+        [
+          -2956.4145040361177,
+          1224.5869835682877
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_4_3",
+      "hierarchy": "local_connector",
+      "ring_index": 4
+    }
+  },
+  {
+    "id": "road_local_4_4",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -2365.131603228894,
+          -979.6695868546295
+        ],
+        [
+          -2603.3284050098214,
+          -1078.333932666186
+        ],
+        [
+          -2956.4145040361177,
+          -1224.586983568287
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_4_4",
+      "hierarchy": "local_connector",
+      "ring_index": 4
+    }
+  },
+  {
+    "id": "road_local_4_5",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -979.6695868546312,
+          -2365.1316032288933
+        ],
+        [
+          -1078.333932666186,
+          -2603.3284050098214
+        ],
+        [
+          -1224.586983568289,
+          -2956.414504036117
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_4_5",
+      "hierarchy": "local_connector",
+      "ring_index": 4
+    }
+  },
+  {
+    "id": "road_local_4_6",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          979.6695868546304,
+          -2365.1316032288937
+        ],
+        [
+          1078.333932666185,
+          -2603.3284050098205
+        ],
+        [
+          1224.586983568288,
+          -2956.4145040361173
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_4_6",
+      "hierarchy": "local_connector",
+      "ring_index": 4
+    }
+  },
+  {
+    "id": "road_local_4_7",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          2365.1316032288933,
+          -979.6695868546315
+        ],
+        [
+          2603.3284050098214,
+          -1078.3339326661865
+        ],
+        [
+          2956.414504036117,
+          -1224.5869835682893
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_local_4_7",
+      "hierarchy": "local_connector",
+      "ring_index": 4
+    }
+  },
+  {
+    "id": "road_spoke_0",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          640.0,
+          0.0
+        ],
+        [
+          1280.0,
+          0.0
+        ],
+        [
+          1920.0,
+          0.0
+        ],
+        [
+          2560.0,
+          0.0
+        ],
+        [
+          3200.0,
+          0.0
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_spoke_0",
+      "hierarchy": "radial_arterial",
+      "spoke_index": 0
+    }
+  },
+  {
+    "id": "road_spoke_1",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          452.54833995939043,
+          452.54833995939043
+        ],
+        [
+          905.0966799187809,
+          905.0966799187809
+        ],
+        [
+          1357.6450198781713,
+          1357.6450198781713
+        ],
+        [
+          1810.1933598375617,
+          1810.1933598375617
+        ],
+        [
+          2262.741699796952,
+          2262.741699796952
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_spoke_1",
+      "hierarchy": "radial_arterial",
+      "spoke_index": 1
+    }
+  },
+  {
+    "id": "road_spoke_2",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          3.9188697572715304e-14,
+          640.0
+        ],
+        [
+          7.837739514543061e-14,
+          1280.0
+        ],
+        [
+          1.1756609271814592e-13,
+          1920.0
+        ],
+        [
+          1.5675479029086122e-13,
+          2560.0
+        ],
+        [
+          1.9594348786357651e-13,
+          3200.0
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_spoke_2",
+      "hierarchy": "radial_arterial",
+      "spoke_index": 2
+    }
+  },
+  {
+    "id": "road_spoke_3",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          -452.5483399593904,
+          452.54833995939043
+        ],
+        [
+          -905.0966799187808,
+          905.0966799187809
+        ],
+        [
+          -1357.645019878171,
+          1357.6450198781713
+        ],
+        [
+          -1810.1933598375615,
+          1810.1933598375617
+        ],
+        [
+          -2262.7416997969517,
+          2262.741699796952
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_spoke_3",
+      "hierarchy": "radial_arterial",
+      "spoke_index": 3
+    }
+  },
+  {
+    "id": "road_spoke_4",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          -640.0,
+          7.837739514543061e-14
+        ],
+        [
+          -1280.0,
+          1.5675479029086122e-13
+        ],
+        [
+          -1920.0,
+          2.3513218543629184e-13
+        ],
+        [
+          -2560.0,
+          3.1350958058172243e-13
+        ],
+        [
+          -3200.0,
+          3.9188697572715303e-13
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_spoke_4",
+      "hierarchy": "radial_arterial",
+      "spoke_index": 4
+    }
+  },
+  {
+    "id": "road_spoke_5",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          -452.54833995939055,
+          -452.5483399593904
+        ],
+        [
+          -905.0966799187811,
+          -905.0966799187808
+        ],
+        [
+          -1357.6450198781715,
+          -1357.645019878171
+        ],
+        [
+          -1810.1933598375622,
+          -1810.1933598375615
+        ],
+        [
+          -2262.7416997969526,
+          -2262.7416997969517
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_spoke_5",
+      "hierarchy": "radial_arterial",
+      "spoke_index": 5
+    }
+  },
+  {
+    "id": "road_spoke_6",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          -1.175660927181459e-13,
+          -640.0
+        ],
+        [
+          -2.351321854362918e-13,
+          -1280.0
+        ],
+        [
+          -3.526982781544377e-13,
+          -1920.0
+        ],
+        [
+          -4.702643708725836e-13,
+          -2560.0
+        ],
+        [
+          -5.878304635907295e-13,
+          -3200.0
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_spoke_6",
+      "hierarchy": "radial_arterial",
+      "spoke_index": 6
+    }
+  },
+  {
+    "id": "road_spoke_7",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          452.5483399593903,
+          -452.54833995939055
+        ],
+        [
+          905.0966799187806,
+          -905.0966799187811
+        ],
+        [
+          1357.6450198781708,
+          -1357.6450198781715
+        ],
+        [
+          1810.1933598375613,
+          -1810.1933598375622
+        ],
+        [
+          2262.7416997969517,
+          -2262.7416997969526
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_spoke_7",
+      "hierarchy": "radial_arterial",
+      "spoke_index": 7
+    }
+  },
+  {
+    "id": "road_ring_1",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          640.0,
+          0.0
+        ],
+        [
+          452.54833995939043,
+          452.54833995939043
+        ],
+        [
+          3.9188697572715304e-14,
+          640.0
+        ],
+        [
+          -452.5483399593904,
+          452.54833995939043
+        ],
+        [
+          -640.0,
+          7.837739514543061e-14
+        ],
+        [
+          -452.54833995939055,
+          -452.5483399593904
+        ],
+        [
+          -1.175660927181459e-13,
+          -640.0
+        ],
+        [
+          452.5483399593903,
+          -452.54833995939055
+        ],
+        [
+          640.0,
+          0.0
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_ring_1",
+      "hierarchy": "ring_arterial",
+      "ring_index": 1
+    }
+  },
+  {
+    "id": "road_ring_2",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          1280.0,
+          0.0
+        ],
+        [
+          905.0966799187809,
+          905.0966799187809
+        ],
+        [
+          7.837739514543061e-14,
+          1280.0
+        ],
+        [
+          -905.0966799187808,
+          905.0966799187809
+        ],
+        [
+          -1280.0,
+          1.5675479029086122e-13
+        ],
+        [
+          -905.0966799187811,
+          -905.0966799187808
+        ],
+        [
+          -2.351321854362918e-13,
+          -1280.0
+        ],
+        [
+          905.0966799187806,
+          -905.0966799187811
+        ],
+        [
+          1280.0,
+          0.0
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_ring_2",
+      "hierarchy": "ring_arterial",
+      "ring_index": 2
+    }
+  },
+  {
+    "id": "road_ring_3",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          1920.0,
+          0.0
+        ],
+        [
+          1357.6450198781713,
+          1357.6450198781713
+        ],
+        [
+          1.1756609271814592e-13,
+          1920.0
+        ],
+        [
+          -1357.645019878171,
+          1357.6450198781713
+        ],
+        [
+          -1920.0,
+          2.3513218543629184e-13
+        ],
+        [
+          -1357.6450198781715,
+          -1357.645019878171
+        ],
+        [
+          -3.526982781544377e-13,
+          -1920.0
+        ],
+        [
+          1357.6450198781708,
+          -1357.6450198781715
+        ],
+        [
+          1920.0,
+          0.0
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_ring_3",
+      "hierarchy": "ring_arterial",
+      "ring_index": 3
+    }
+  },
+  {
+    "id": "road_ring_4",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          2560.0,
+          0.0
+        ],
+        [
+          1810.1933598375617,
+          1810.1933598375617
+        ],
+        [
+          1.5675479029086122e-13,
+          2560.0
+        ],
+        [
+          -1810.1933598375615,
+          1810.1933598375617
+        ],
+        [
+          -2560.0,
+          3.1350958058172243e-13
+        ],
+        [
+          -1810.1933598375622,
+          -1810.1933598375615
+        ],
+        [
+          -4.702643708725836e-13,
+          -2560.0
+        ],
+        [
+          1810.1933598375613,
+          -1810.1933598375622
+        ],
+        [
+          2560.0,
+          0.0
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_ring_4",
+      "hierarchy": "ring_arterial",
+      "ring_index": 4
+    }
+  },
+  {
+    "id": "road_ring_5",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          3200.0,
+          0.0
+        ],
+        [
+          2262.741699796952,
+          2262.741699796952
+        ],
+        [
+          1.9594348786357651e-13,
+          3200.0
+        ],
+        [
+          -2262.7416997969517,
+          2262.741699796952
+        ],
+        [
+          -3200.0,
+          3.9188697572715303e-13
+        ],
+        [
+          -2262.7416997969526,
+          -2262.7416997969517
+        ],
+        [
+          -5.878304635907295e-13,
+          -3200.0
+        ],
+        [
+          2262.7416997969517,
+          -2262.7416997969526
+        ],
+        [
+          3200.0,
+          0.0
+        ]
+      ]
+    },
+    "properties": {
+      "road_id": "road_ring_5",
+      "hierarchy": "ring_arterial",
+      "ring_index": 5
+    }
+  }
+]

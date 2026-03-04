@@ -1,0 +1,41 @@
+from __future__ import annotations
+
+
+def default_categories() -> dict:
+    return {
+        "landuse": {
+            "green_heart": {"color": [117, 174, 103]},
+            "mixed_use": {"color": [245, 179, 83]},
+            "high_density_residential": {"color": [231, 111, 81]},
+            "medium_density_residential": {"color": [244, 162, 97]},
+            "urban_agriculture": {"color": [138, 201, 38]},
+            "mobility_buffer": {"color": [131, 197, 190]},
+        },
+        "roads": {
+            "ring_arterial": {"color": [58, 80, 107], "width": 10},
+            "radial_arterial": {"color": [69, 123, 157], "width": 8},
+            "local_connector": {"color": [168, 218, 220], "width": 4},
+        },
+        "facilities": {
+            "grocery": {"color": [42, 157, 143], "icon": "market"},
+            "clinic": {"color": [230, 57, 70], "icon": "clinic"},
+            "school": {"color": [69, 123, 157], "icon": "school"},
+            "park": {"color": [76, 175, 80], "icon": "park"},
+            "maas_hub": {"color": [38, 70, 83], "icon": "mobility"},
+            "energy_plant": {"color": [255, 183, 3], "icon": "energy"},
+            "micromobility_hub": {"color": [142, 202, 230], "icon": "bike"},
+        },
+        "transit": {
+            "central_station": {"color": [29, 53, 87], "radius": 9},
+            "ring_station": {"color": [69, 123, 157], "radius": 6},
+            "spoke_stop": {"color": [120, 180, 156], "radius": 5},
+        },
+        "travel_time_bins": [
+            {"label": "0-5", "max_minutes": 5, "color": [33, 102, 172]},
+            {"label": "5-10", "max_minutes": 10, "color": [67, 147, 195]},
+            {"label": "10-15", "max_minutes": 15, "color": [146, 197, 222]},
+            {"label": "15-20", "max_minutes": 20, "color": [244, 165, 130]},
+            {"label": "20-30", "max_minutes": 30, "color": [214, 96, 77]},
+            {"label": "30+", "max_minutes": 9999, "color": [178, 24, 43]},
+        ],
+    }

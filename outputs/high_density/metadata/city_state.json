@@ -1,0 +1,19 @@
+{
+  "scenario": "high_density",
+  "seed": 42,
+  "spec": {
+    "name": "high_density",
+    "radius_m": 3000,
+    "rings": 5,
+    "spokes": 10,
+    "density_factor": 0.7,
+    "transit_investment": 1.0,
+    "green_ratio": 0.4,
+    "renewables_pct": 0.9,
+    "walk_speed_mps": 1.4,
+    "bike_speed_mps": 4.2,
+    "population_target": 25000,
+    "center_lat": 53.5461,
+    "center_lon": -113.4938
+  }
+}

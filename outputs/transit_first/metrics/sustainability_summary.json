@@ -1,0 +1,10 @@
+{
+  "scenario": "transit_first",
+  "green_ratio": 0.18,
+  "transit_investment": 1.0,
+  "renewables_pct": 0.9,
+  "walk_coverage_score": 7.5,
+  "bike_coverage_score": 100.0,
+  "green_space_score": 60.0,
+  "energy_score": 90.0
+}

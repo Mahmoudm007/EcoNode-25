@@ -1,0 +1,194 @@
+[
+  {
+    "id": "facility_1_0",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        896.2278115607585,
+        371.2297145244246
+      ]
+    },
+    "properties": {
+      "facility_id": "facility_1_0",
+      "name": "Clinic 1-0",
+      "facility_type": "clinic",
+      "parcel_id": "parcel_1_0"
+    }
+  },
+  {
+    "id": "facility_1_2",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -371.2297145244245,
+        896.227811560758
+      ]
+    },
+    "properties": {
+      "facility_id": "facility_1_2",
+      "name": "Park 1-2",
+      "facility_type": "park",
+      "parcel_id": "parcel_1_2"
+    }
+  },
+  {
+    "id": "facility_1_4",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -896.2278115607583,
+        -371.22971452442454
+      ]
+    },
+    "properties": {
+      "facility_id": "facility_1_4",
+      "name": "Energy Plant 1-4",
+      "facility_type": "energy_plant",
+      "parcel_id": "parcel_1_4"
+    }
+  },
+  {
+    "id": "facility_1_6",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        371.2297145244244,
+        -896.2278115607581
+      ]
+    },
+    "properties": {
+      "facility_id": "facility_1_6",
+      "name": "Grocery 1-6",
+      "facility_type": "grocery",
+      "parcel_id": "parcel_1_6"
+    }
+  },
+  {
+    "id": "facility_2_0",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1459.5710073989483,
+        604.5741065112055
+      ]
+    },
+    "properties": {
+      "facility_id": "facility_2_0",
+      "name": "School 2-0",
+      "facility_type": "school",
+      "parcel_id": "parcel_2_0"
+    }
+  },
+  {
+    "id": "facility_2_2",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -604.5741065112053,
+        1459.5710073989478
+      ]
+    },
+    "properties": {
+      "facility_id": "facility_2_2",
+      "name": "Maas Hub 2-2",
+      "facility_type": "maas_hub",
+      "parcel_id": "parcel_2_2"
+    }
+  },
+  {
+    "id": "facility_2_4",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1459.5710073989492,
+        -604.5741065112054
+      ]
+    },
+    "properties": {
+      "facility_id": "facility_2_4",
+      "name": "Micromobility Hub 2-4",
+      "facility_type": "micromobility_hub",
+      "parcel_id": "parcel_2_4"
+    }
+  },
+  {
+    "id": "facility_2_6",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        604.5741065112055,
+        -1459.571007398949
+      ]
+    },
+    "properties": {
+      "facility_id": "facility_2_6",
+      "name": "Clinic 2-6",
+      "facility_type": "clinic",
+      "parcel_id": "parcel_2_6"
+    }
+  },
+  {
+    "id": "facility_3_0",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2030.2303486376352,
+        840.9489451471658
+      ]
+    },
+    "properties": {
+      "facility_id": "facility_3_0",
+      "name": "Park 3-0",
+      "facility_type": "park",
+      "parcel_id": "parcel_3_0"
+    }
+  },
+  {
+    "id": "facility_3_2",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -840.9489451471654,
+        2030.2303486376356
+      ]
+    },
+    "properties": {
+      "facility_id": "facility_3_2",
+      "name": "Energy Plant 3-2",
+      "facility_type": "energy_plant",
+      "parcel_id": "parcel_3_2"
+    }
+  },
+  {
+    "id": "facility_3_4",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2030.2303486376363,
+        -840.9489451471659
+      ]
+    },
+    "properties": {
+      "facility_id": "facility_3_4",
+      "name": "Grocery 3-4",
+      "facility_type": "grocery",
+      "parcel_id": "parcel_3_4"
+    }
+  },
+  {
+    "id": "facility_3_6",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        840.9489451471652,
+        -2030.230348637636
+      ]
+    },
+    "properties": {
+      "facility_id": "facility_3_6",
+      "name": "School 3-6",
+      "facility_type": "school",
+      "parcel_id": "parcel_3_6"
+    }
+  }
+]
